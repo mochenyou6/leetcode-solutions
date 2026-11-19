@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "z-algorithm",
+    "name": "扩展 KMP",
+    "tagId": "241365"
+  },
+  "updatedAt": "2026-11-19T11:22:44.214Z",
+  "problems": [
+    {
+      "frontendId": "28",
+      "title": "",
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "problemName": "0028-find-the-index-of-the-first-occurrence-in-a-string",
+      "difficulty": "",
+      "leetcodeUrl": "https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+      "folderPath": "0028-find-the-index-of-the-first-occurrence-in-a-string/",
+      "readmePath": "0028-find-the-index-of-the-first-occurrence-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.c",
+          "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.c",
+          "sha": "5c3e1dcfa6bbe725c5acb5c5132094af840f7f93",
+          "lastSyncedAt": "2026-11-19T11:22:44.214Z"
+        }
+      ]
+    }
+  ]
+}
